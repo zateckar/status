@@ -11,6 +11,18 @@ sites:
     headers:
      - "$OPP_KEY"
      - "Content-Type: application/json"
+  - name: OPT
+    url: $OPT_URL
+    __dangerous__body_down_if_text_missing: 'pass'
+    headers:
+     - "$OPT_KEY"
+     - "Content-Type: application/json"
+  - name: OPD
+    url: $OPD_URL
+    __dangerous__body_down_if_text_missing: 'pass'
+    headers:
+     - "$D_KEY"
+     - "Content-Type: application/json"
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,8 +36,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
