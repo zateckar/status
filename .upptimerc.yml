@@ -33,9 +33,21 @@ status-website:
   name: Upptime
   introTitle: ""
   introMessage: ""
+  theme: dark
   navbar:
     - title: Status
       href: /
 
+workflowSchedule:
+  graphs: "6 */6 * * *"
+  responseTime: "8 */6 * * *"
+  staticSite: "1 1 * * *"
+  summary: "6 */6 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/6 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: ""
