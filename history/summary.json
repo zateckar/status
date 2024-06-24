@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1337,
-    "timeDay": 1263,
-    "timeWeek": 1337,
-    "timeMonth": 1337,
-    "timeYear": 1337,
+    "time": 1343,
+    "timeDay": 1418,
+    "timeWeek": 1343,
+    "timeMonth": 1343,
+    "timeYear": 1343,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 420,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 427,
+    "timeDay": 439,
+    "timeWeek": 427,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 448,
-    "timeWeek": 466,
-    "timeMonth": 466,
-    "timeYear": 466,
+    "time": 457,
+    "timeDay": 468,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,19 @@
     "url": "$OPD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 457,
-    "timeWeek": 509,
-    "timeMonth": 509,
-    "timeYear": 509,
-    "dailyMinutesDown": {}
+    "time": 491,
+    "timeDay": 453,
+    "timeWeek": 491,
+    "timeMonth": 491,
+    "timeYear": 491,
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   }
 ]
