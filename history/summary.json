@@ -58,19 +58,19 @@
     "url": "$OPD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 453,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 4067,
+    "timeDay": 6721,
+    "timeWeek": 4067,
+    "timeMonth": 4067,
+    "timeYear": 4067,
     "dailyMinutesDown": {
-      "2024-06-24": 0
+      "2024-06-24": 15
     }
   }
 ]
