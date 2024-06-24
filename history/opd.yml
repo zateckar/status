@@ -1,7 +1,7 @@
 url: $OPD_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-24T22:16:40.940Z
+status: up
+code: 200
+responseTime: 25525
+lastUpdated: 2024-06-24T22:31:59.893Z
 startTime: 2024-06-22T21:27:54.754Z
 generator: Upptime <https://github.com/upptime/upptime>
