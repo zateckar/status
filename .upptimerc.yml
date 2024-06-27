@@ -5,24 +5,42 @@ repo: status # The name of this repository
 sites:
   - name: IdP
     url: $IDP_URL
+    icon: https://cdn0.iconfinder.com/data/icons/digital-identity-user/100/server_storage_identity_digital_user_electronic_document-64.png
   - name: OPP
     url: $OPP_URL
+    icon: https://img.icons8.com/?size=100&id=SBEjRDmczSCC&format=png&color=000000
     __dangerous__body_down_if_text_missing: 'pass'
     headers:
      - "$OPP_KEY"
-     - "Content-Type: application/json"
   - name: OPT
     url: $OPT_URL
     __dangerous__body_down_if_text_missing: 'pass'
     headers:
      - "$OPT_KEY"
-     - "Content-Type: application/json"
   - name: OPD
     url: $OPD_URL
     __dangerous__body_down_if_text_missing: 'pass'
     headers:
      - "$D_KEY"
-     - "Content-Type: application/json"
+  - name: AZP
+    url: $AZP_URL
+    icon: https://img.icons8.com/?size=100&id=SBEjRDmczSCC&format=png&color=000000
+    __dangerous__body_down_if_text_missing: 'pass'
+    headers:
+     - "$OPP_KEY"
+  - name: AZT
+    url: $AZT_URL
+    __dangerous__body_down_if_text_missing: 'pass'
+    headers:
+     - "$OPT_KEY"
+  - name: AZD
+    url: $AZD_URL
+    __dangerous__body_down_if_text_missing: 'pass'
+    headers:
+     - "$D_KEY"
+  - name: Portal
+    url: $PORTAL_URL
+    icon: https://cdn2.iconfinder.com/data/icons/web-development-172/66/32_browser_web_browser_search_engine_internet_browser_internet_service_provider_portal-128.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -33,7 +51,6 @@ status-website:
   name: Upptime
   introTitle: ""
   introMessage: ""
-  theme: dark
   navbar:
     - title: Status
       href: /
