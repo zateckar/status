@@ -17,14 +17,14 @@
 name: Uptime CI
 on:
   schedule:
-    - cron: "*/6 * * * *"
+    - cron: "* * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
 jobs:
   release:
     name: Check status
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Checkout
         uses: actions/checkout@v4
