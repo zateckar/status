@@ -66,7 +66,7 @@
     "slug": "opd",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "92.93%",
+    "uptimeDay": "93.90%",
     "uptimeWeek": "97.17%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.45%",
@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "azt",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.86%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.86%",
     "time": 682,
     "timeDay": 647,
     "timeWeek": 721,
     "timeMonth": 692,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-08-25": 0,
+      "2024-08-25": 14,
       "2024-08-07": 16,
       "2024-07-23": 89
     }
@@ -127,9 +127,9 @@
     "url": "$AZD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "azd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -139,6 +139,7 @@
     "timeMonth": 656,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2024-08-25": 0,
       "2024-07-23": 35
     }
   },
