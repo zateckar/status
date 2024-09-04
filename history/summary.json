@@ -13,7 +13,7 @@
     "time": 1421,
     "timeDay": 1504,
     "timeWeek": 1516,
-    "timeMonth": 1420,
+    "timeMonth": 1418,
     "timeYear": 1421,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 454,
     "timeDay": 487,
     "timeWeek": 460,
-    "timeMonth": 455,
+    "timeMonth": 454,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 490,
     "timeDay": 502,
     "timeWeek": 469,
-    "timeMonth": 487,
+    "timeMonth": 486,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2024-07-15": 23,
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opd",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 551,
     "timeDay": 496,
     "timeWeek": 476,
-    "timeMonth": 472,
+    "timeMonth": 471,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2024-08-24": 285,
@@ -96,7 +96,7 @@
     "time": 660,
     "timeDay": 688,
     "timeWeek": 651,
-    "timeMonth": 664,
+    "timeMonth": 662,
     "timeYear": 660,
     "dailyMinutesDown": {}
   },
@@ -114,7 +114,7 @@
     "time": 685,
     "timeDay": 715,
     "timeWeek": 715,
-    "timeMonth": 691,
+    "timeMonth": 690,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2024-08-25": 72,
@@ -136,7 +136,7 @@
     "time": 649,
     "timeDay": 579,
     "timeWeek": 629,
-    "timeMonth": 645,
+    "timeMonth": 644,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2024-09-04": 21,
@@ -158,7 +158,7 @@
     "time": 543,
     "timeDay": 587,
     "timeWeek": 545,
-    "timeMonth": 542,
+    "timeMonth": 540,
     "timeYear": 543,
     "dailyMinutesDown": {}
   }
