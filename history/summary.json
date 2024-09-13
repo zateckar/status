@@ -151,19 +151,19 @@
     "url": "$PORTAL_URL",
     "icon": "https://cdn2.iconfinder.com/data/icons/web-development-172/66/32_browser_web_browser_search_engine_internet_browser_internet_service_provider_portal-128.png",
     "slug": "portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 4277,
-    "timeWeek": 1151,
-    "timeMonth": 681,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 598,
+    "timeDay": 3587,
+    "timeWeek": 1117,
+    "timeMonth": 677,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 9
     }
   }
 ]
