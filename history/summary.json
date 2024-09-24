@@ -6,17 +6,16 @@
     "slug": "id-p",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1430,
     "timeDay": 1536,
     "timeWeek": 1456,
-    "timeMonth": 1460,
+    "timeMonth": 1464,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2024-09-24": 4,
       "2024-09-12": 20
     }
   },
@@ -76,7 +75,7 @@
     "time": 529,
     "timeDay": 506,
     "timeWeek": 473,
-    "timeMonth": 457,
+    "timeMonth": 458,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2024-08-24": 285,
@@ -117,7 +116,7 @@
     "time": 676,
     "timeDay": 855,
     "timeWeek": 651,
-    "timeMonth": 663,
+    "timeMonth": 664,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2024-09-20": 28,
@@ -141,7 +140,7 @@
     "time": 644,
     "timeDay": 713,
     "timeWeek": 653,
-    "timeMonth": 627,
+    "timeMonth": 628,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2024-09-19": 23,
@@ -164,7 +163,7 @@
     "time": 593,
     "timeDay": 599,
     "timeWeek": 564,
-    "timeMonth": 682,
+    "timeMonth": 683,
     "timeYear": 593,
     "dailyMinutesDown": {}
   }
