@@ -6,8 +6,8 @@
     "slug": "id-p",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 1460,
@@ -16,7 +16,6 @@
     "timeMonth": 1543,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2024-11-03": 2,
       "2024-10-18": 48,
       "2024-09-12": 20
     }
@@ -45,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "opt",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "98.94%",
     "time": 485,
     "timeDay": 436,
     "timeWeek": 449,
