@@ -25,19 +25,19 @@
     "url": "$OPP_URL",
     "icon": "https://img.icons8.com/?size=100&id=SBEjRDmczSCC&format=png&color=000000",
     "slug": "opp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 419,
-    "timeWeek": 473,
-    "timeMonth": 453,
+    "timeDay": 367,
+    "timeWeek": 460,
+    "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2024-11-11": 0
+      "2024-11-11": 5
     }
   },
   {
