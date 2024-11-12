@@ -27,18 +27,16 @@
     "slug": "opp",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
     "timeDay": 367,
     "timeWeek": 460,
     "timeMonth": 451,
     "timeYear": 451,
-    "dailyMinutesDown": {
-      "2024-11-11": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OPT",
