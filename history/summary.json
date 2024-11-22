@@ -6,9 +6,9 @@
     "slug": "id-p",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1466,
     "timeDay": 1325,
@@ -16,7 +16,6 @@
     "timeMonth": 1492,
     "timeYear": 1466,
     "dailyMinutesDown": {
-      "2024-11-22": 6,
       "2024-10-18": 48,
       "2024-09-12": 20
     }
