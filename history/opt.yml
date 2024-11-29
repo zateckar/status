@@ -1,7 +1,7 @@
 url: $OPT_URL
-status: down
-code: 500
-responseTime: 5121
-lastUpdated: 2024-11-29T08:17:42.425Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2024-11-29T08:39:57.503Z
 startTime: 2024-06-22T21:27:54.021Z
 generator: Upptime <https://github.com/upptime/upptime>
