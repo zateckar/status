@@ -47,7 +47,7 @@
     "slug": "opt",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
@@ -57,7 +57,6 @@
     "timeMonth": 542,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-01-02": 0,
       "2024-11-29": 22,
       "2024-09-30": 443,
       "2024-09-29": 1172,
