@@ -13,7 +13,7 @@
     "time": 1499,
     "timeDay": 1540,
     "timeWeek": 1677,
-    "timeMonth": 1601,
+    "timeMonth": 1604,
     "timeYear": 1499,
     "dailyMinutesDown": {
       "2025-03-19": 58,
@@ -50,7 +50,7 @@
     "time": 452,
     "timeDay": 453,
     "timeWeek": 470,
-    "timeMonth": 457,
+    "timeMonth": 458,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-03-09": 24,
@@ -132,7 +132,7 @@
     "time": 650,
     "timeDay": 640,
     "timeWeek": 657,
-    "timeMonth": 635,
+    "timeMonth": 636,
     "timeYear": 650,
     "dailyMinutesDown": {}
   },
@@ -143,17 +143,16 @@
     "slug": "azt",
     "status": "up",
     "uptime": "97.15%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "72.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "72.62%",
     "uptimeYear": "97.15%",
     "time": 883,
     "timeDay": 699,
     "timeWeek": 661,
-    "timeMonth": 704,
+    "timeMonth": 706,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2025-05-06": 5,
       "2025-04-30": 132,
       "2025-04-16": 1116,
       "2025-04-15": 1440,
@@ -195,7 +194,7 @@
     "time": 648,
     "timeDay": 622,
     "timeWeek": 657,
-    "timeMonth": 637,
+    "timeMonth": 638,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2025-04-30": 26,
@@ -224,7 +223,7 @@
     "time": 559,
     "timeDay": 542,
     "timeWeek": 554,
-    "timeMonth": 539,
+    "timeMonth": 540,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2025-04-07": 613
