@@ -13,7 +13,7 @@
     "time": 1538,
     "timeDay": 1989,
     "timeWeek": 1586,
-    "timeMonth": 1570,
+    "timeMonth": 1571,
     "timeYear": 1540,
     "dailyMinutesDown": {
       "2025-05-25": 286,
@@ -50,7 +50,7 @@
     "time": 454,
     "timeDay": 548,
     "timeWeek": 477,
-    "timeMonth": 461,
+    "timeMonth": 462,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2025-03-09": 24
@@ -70,7 +70,7 @@
     "time": 508,
     "timeDay": 545,
     "timeWeek": 493,
-    "timeMonth": 488,
+    "timeMonth": 489,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2025-06-07": 65,
@@ -103,7 +103,7 @@
     "time": 480,
     "timeDay": 552,
     "timeWeek": 473,
-    "timeMonth": 466,
+    "timeMonth": 467,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2025-08-18": 18,
@@ -127,7 +127,7 @@
     "time": 655,
     "timeDay": 809,
     "timeWeek": 680,
-    "timeMonth": 667,
+    "timeMonth": 668,
     "timeYear": 654,
     "dailyMinutesDown": {}
   },
@@ -138,17 +138,16 @@
     "slug": "azt",
     "status": "up",
     "uptime": "97.26%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "96.24%",
     "time": 905,
     "timeDay": 756,
     "timeWeek": 705,
-    "timeMonth": 867,
+    "timeMonth": 870,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2025-11-17": 10,
       "2025-10-31": 56,
       "2025-10-29": 20,
       "2025-09-23": 67,
@@ -199,7 +198,7 @@
     "time": 652,
     "timeDay": 781,
     "timeWeek": 676,
-    "timeMonth": 660,
+    "timeMonth": 661,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2025-10-31": 42,
@@ -230,7 +229,7 @@
     "time": 636,
     "timeDay": 920,
     "timeWeek": 775,
-    "timeMonth": 768,
+    "timeMonth": 769,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2025-04-07": 613
