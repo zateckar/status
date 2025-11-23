@@ -43,17 +43,16 @@
     "slug": "opp",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 454,
     "timeDay": 415,
     "timeWeek": 491,
     "timeMonth": 468,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-11-23": 9,
       "2025-03-09": 24
     }
   },
@@ -72,7 +71,7 @@
     "timeDay": 574,
     "timeWeek": 1121,
     "timeMonth": 649,
-    "timeYear": 525,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2025-11-22": 660,
       "2025-11-21": 368,
@@ -232,7 +231,7 @@
     "timeDay": 951,
     "timeWeek": 850,
     "timeMonth": 784,
-    "timeYear": 648,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2025-04-07": 613
     }
