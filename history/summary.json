@@ -56,7 +56,7 @@
     "time": 513,
     "timeDay": 432,
     "timeWeek": 466,
-    "timeMonth": 454,
+    "timeMonth": 453,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2026-03-24": 55,
@@ -121,7 +121,7 @@
     "time": 664,
     "timeDay": 618,
     "timeWeek": 634,
-    "timeMonth": 633,
+    "timeMonth": 632,
     "timeYear": 666,
     "dailyMinutesDown": {
       "2026-03-17": 95
@@ -133,7 +133,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "azt",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
@@ -228,11 +228,10 @@
     "time": 717,
     "timeDay": 654,
     "timeWeek": 722,
-    "timeMonth": 732,
+    "timeMonth": 731,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2026-03-17": 93,
-      "2025-04-07": 613
+      "2026-03-17": 93
     }
   }
 ]
